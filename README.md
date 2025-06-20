@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### nginx补充一些加速内容：
 前端的server中
 
@@ -14,3 +15,6 @@
     server_name  localhost;
     
     
+=======
+# Baise-front
+>>>>>>> 8047411e9ffcdd564609434285eb78af29dd3323
