@@ -108,8 +108,8 @@
   export default {
     components: {
       TwoStepCaptcha,
-      Verify,
-      LiccustomerinfoRegister
+      Verify
+      // LiccustomerinfoRegister
     },
     data () {
       var captchaTypeValue = 'clickWord'
